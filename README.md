@@ -1,6 +1,5 @@
 Los Vagos Information Map
 ====
-[Live page](https://skyrossm.github.io/np-gangmap/)
 This interactive (Google) map shows you the location of current Los Vagos territory/other zones.
 
 ## How to submit new locations
