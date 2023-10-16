@@ -247,3 +247,61 @@ body { height: 100%; margin: 0; padding: 0 }
 #info-body img {
 	width: 100%;
 }
+
+.dropdown .btn {
+    background-color: #999; /* Gray background color */
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 0; /* Square edges */
+    padding: 8px 20px; /* Slightly smaller size */
+    margin-right: 5px;
+    transition: background-color 0.3s ease;
+    font-size: 14px; /* Slightly smaller font size */
+}
+
+.dropdown .btn:hover {
+    background-color: #aaa; /* Slightly lighter gray on hover */
+}
+
+.dropdown-menu {
+    background-color: #999; /* Gray background for the dropdown menu */
+    border: none;
+    border-radius: 0; /* Square edges */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.dropdown-menu a {
+    color: #fff; /* White text color */
+    padding: 8px 16px; /* Slightly smaller size */
+    display: block;
+}
+
+
+
+#createzone:hover {
+    background-color: #aaa; /* Slightly lighter gray on hover */
+}
+
+.dropdown-menu a {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}
+
+/* Style for clickable menu items in #categoriesTemplate */
+#categoriesTemplate ul li {
+    list-style: none; /* Remove default list-style bullets */
+    margin: 10px 0; /* Add space between menu items */
+}
+
+#categoriesTemplate ul a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #333; /* Set text color for menu items */
+    user-select: none; /* Prevent text selection */
+    cursor: pointer; /* Change cursor to a pointer on hover */
+    transition: color 0.3s; /* Add a smooth color transition on hover */
+}
+
+#categoriesTemplate ul a:hover {
+    color: #007BFF; /* Change text color on hover */
+}

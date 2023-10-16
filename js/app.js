@@ -102,13 +102,13 @@ $(function() {
 
 	var categories = (window.cats = new CategoriesCollection([
 		{
-			name: 'Neighborhoods',
+			name: 'Zone',
 			icon: 'radar/radar_warehouse.png',
 			type: 'General',
-			enabled: false,
+			enabled: true,
 		},
 		{
-			name: 'Zone',
+			name: 'Locatii',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true,
@@ -117,22 +117,10 @@ $(function() {
 			name: 'Rapire',
 			icon: 'General/glitches.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 		},
 		{
-			name: 'Automotive',
-			icon: 'radar/radar_acsr_race_hotring.png',
-			type: 'General',
-			enabled: true,
-		},
-		{
-			name: 'Heists',
-			icon: 'radar/radar_heist.png',
-			type: 'General',
-			enabled: true,
-		},
-		{
-			name: 'Legal',
+			name: 'Jafuri',
 			icon: 'radar/radar_police_station.png',
 			type: 'General',
 			enabled: true,
@@ -140,12 +128,6 @@ $(function() {
 		{
 			name: 'Spitale',
 			icon: 'radar/radar_hospital.png',
-			type: 'General',
-			enabled: true,
-		},
-		{
-			name: 'Restaurants',
-			icon: 'radar/radar_bar.png',
 			type: 'General',
 			enabled: true,
 		},
