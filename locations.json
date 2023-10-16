@@ -695,6 +695,41 @@
     },
 	{
         "type": "Jafuri",
+        "title": "Banca Cazino",
+        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
+        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "order": 0,
+        "strokecolor": "FF0000",
+        "fillcolor": "FF0000",
+        "latlngarray": [
+			{"lat": -52.843, "lng": 11.434},
+		{"lat": -52.510, "lng": 11.698},
+		{"lat": -52.436, "lng": 11.544},
+		{"lat": -52.026, "lng": 11.994},
+		{"lat": -51.877, "lng": 12.159},
+		{"lat": -51.911, "lng": 12.302},
+		{"lat": -51.584, "lng": 12.654},
+		{"lat": -51.721, "lng": 12.983},
+		{"lat": -51.482, "lng": 13.247},
+		{"lat": -51.591, "lng": 13.532},
+		{"lat": -51.543, "lng": 13.631},
+		{"lat": -51.687, "lng": 13.972},
+		{"lat": -51.755, "lng": 13.928},
+		{"lat": -51.877, "lng": 14.258},
+		{"lat": -53.095, "lng": 13.016},
+		{"lat": -52.870, "lng": 12.796},
+		{"lat": -52.956, "lng": 12.687},
+		{"lat": -53.048, "lng": 12.522},
+		{"lat": -53.029, "lng": 12.434},
+		{"lat": -52.995, "lng": 12.302},
+		{"lat": -52.923, "lng": 12.148},
+		{"lat": -53.022, "lng": 11.961}
+
+
+        ]
+    },
+	{
+        "type": "Jafuri",
         "title": "Humane Labs",
         "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
         "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
@@ -869,18 +904,20 @@
     },
 	{
         "type": "Spitale",
-        "title": "Spital M Oras",
-        "notes": "TEXT",
+        "title": "Spital M Paleto",
+        "notes": "Text",
+		"wiki_link": "https://cdn.discordapp.com/attachments/513058586574716938/1163562713927135263/image.png?ex=65400738&is=652d9238&hm=bc90736aa8ab72df07a49e10396db2cdb8475f6be8a34012a4556c95d3b8cfaa&",
         "order": 0,
         "strokecolor": "800080",
         "fillcolor": "800080",
         "latlngarray": [
-			{"lat": 75.928, "lng": -28.730},
-			{"lat": 75.824, "lng": -28.125},
-			{"lat": 75.719, "lng": -28.510},
-			{"lat": 75.552, "lng": -28.653},
-			{"lat": 75.582, "lng": -29.323},
-			{"lat": 75.778, "lng": -29.235}
+			{"lat": 75.797, "lng": -29.047},
+			{"lat": 75.897, "lng": -28.915},
+			{"lat": 75.980, "lng": -28.663},
+			{"lat": 75.956, "lng": -28.333},
+			{"lat": 75.916, "lng": -28.015},
+			{"lat": 75.835, "lng": -28.223},
+			{"lat": 75.730, "lng": -28.366}
         ]
     },
 	{
