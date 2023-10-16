@@ -699,8 +699,8 @@
         "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
         "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
         "order": 0,
-        "strokecolor": "FF0000",
-        "fillcolor": "FF0000",
+        "strokecolor": "059500",
+        "fillcolor": "059500",
         "latlngarray": [
 			{"lat": -52.843, "lng": 11.434},
 		{"lat": -52.510, "lng": 11.698},
@@ -1151,8 +1151,8 @@
         "title": "Fuente",
 		"notes": "TEXT",
         "order": 0,
-        "strokecolor": "008000",
-        "fillcolor": "008000",
+        "strokecolor": "B07B7B",
+        "fillcolor": "B07B7B",
         "latlngarray": [
 		{"lat": -42.727, "lng": 16.542},
 		{"lat": -42.591, "lng": 16.968},
