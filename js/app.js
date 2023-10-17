@@ -130,6 +130,7 @@ $(function() {
 			icon: 'radar/radar_hospital.png',
 			type: 'General',
 			enabled: true,
+			categoryClass: 'category-name'
 		},
 		/*
 		{
@@ -140,7 +141,7 @@ $(function() {
 		},
 		*/
 	]));
-
+	
 	var showingLabels;
 	var CategoriesView = Backbone.View.extend({
 		initialize: function() {
@@ -669,3 +670,25 @@ Label.prototype.draw = function() {
 
 	this.span_.innerHTML = this.get('text').toString();
 };
+
+google.maps.event.addListener(map, 'zoom_changed', function() {
+    if (map.getZoom() < 5) map.setZoom(5);
+});
+
+var customMapType = new google.maps.ImageMapType({
+	getTileUrl: function(coord, zoom) {
+	  var normalizedCoord = getNormalizedCoord(coord, zoom);
+	  if (!normalizedCoord) {
+		return null;
+	  }
+	  var bound = Math.pow(2, zoom);
+	  return 'tiles/' + zoom + '_' + normalizedCoord.x + '_' + (bound - normalizedCoord.y - 1) + '.png';
+	},
+	tileSize: new google.maps.Size(256, 256),
+	maxZoom: 8,
+	minZoom: 3,
+	name: 'Atlas',
+	alt: 'Atlas',
+	noWrap: true,  // Set to true to prevent map wrapping
+  });
+  
