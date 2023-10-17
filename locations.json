@@ -505,7 +505,6 @@
 	{
         "type": "Rapire",
         "title": "Locatie 20",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -514,7 +513,14 @@
 		{"lat": -18.151, "lng": -58.090},
 		{"lat": -18.141, "lng": -58.497},
 		{"lat": -19.358, "lng": -58.848}
-        ]
+        ],
+		
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/513058586574716938/1163952129120153621/image.png?ex=654171e4&is=652efce4&hm=8b052715cc30a6f960a9d8e5fb4d54d386d7fbc0ec87e0a8155c3d109fd55a2c&"
+			}
+		]
+
     },
 	{
         "type": "Rapire",
