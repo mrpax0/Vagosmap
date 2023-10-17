@@ -39,6 +39,8 @@ header a {
 	color: rgb(255, 255, 255);
 	text-decoration: none;
 	color: #ffc400;
+	user-select: none;
+	pointer-events: none;
 }
 
 header a.active {
@@ -109,7 +111,8 @@ header a.active {
 	color: rgb(255, 255, 255);
 	font-size: 16px; /* Adjust font size */
 	font-family: 'vandalism', sans-serif; /* Change font family to a more standard font */
-  }
+	user-select: none;  
+}
 
 .types::-webkit-scrollbar {
 	display: none;
@@ -159,7 +162,6 @@ header a.active {
 .types .type img {
 	width: 16px;
 	position: relative;
-	top: 4px;
 	-webkit-filter: grayscale(1);
 	opacity: .2;
 }
@@ -275,12 +277,14 @@ body { height: 100%; margin: 0; padding: 0 }
     border: none;
     border-radius: 0; /* Square edges */
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+	user-select: none;
 }
 
 .dropdown-menu a {
     color: #fff; /* White text color */
     padding: 8px 16px; /* Slightly smaller size */
     display: block;
+	user-select: none;
 }
 
 
