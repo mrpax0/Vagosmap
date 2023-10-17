@@ -23,7 +23,8 @@
 </head>
 <body>
 	<header>
-		<p class="title left" style="padding-top: 0px;"><a href="">Los Vagos Information Map</a></p>		<ul class="right">
+		
+		<p class="title left" style="padding-top: 0px;"><a href="#" style="pointer-events: none; user-select: none;">Los Vagos Information Map</a></p>		<ul class="right">
 			<div class="dropdown">
 				<a href="incoming" target="_blank"><button class="btn btn-primary">Contributors</button></a>
 				<button class="btn btn-primary" id="toggleruler" onclick="toggleRuler();$(this).css('display', 'none');">Add Distance Ruler</button>
@@ -41,6 +42,10 @@
 		</ul>
 	</header>
 
+	<div id="image-preview" style="display: none;">
+		<img id="preview-image" src="" alt="Location Image">
+	  </div>
+
 	<div id="map" style="background:rgb(43, 164, 210);"></div>
 
 	<script type="x/template" id="categoriesTemplate">
@@ -49,7 +54,7 @@
 				<h3>{{name}}</h3>
 				<ul>
 					{{#each types}}
-						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a></li>
+						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="icon-chevron-sign-rigt"></i></a></li>
 					{{/each}}
 					<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a></li>
 
@@ -57,6 +62,12 @@
 			</section>
 		{{/each}}
 	</script>
+
+	<script>
+		document.getElementById('title').addEventListener('click', function(event) {
+		  event.preventDefault();
+		});
+	  </script>
 
 	<script type="x/template" id="categoryDetailsTemplate">
 		<section class="type">
@@ -71,51 +82,58 @@
 
 	<script type="x/template" id="markerPopupTemplate2">
 		<div id="info-window" style="max-width:420px;">
-			<div class="scrollable">
-				<span class="header">
-					<h3>{{title}}</h3>
-				</span>
-				<div id="info-body">
-					{{#if notes}}
-						<br>
-						<p class="notes">{{notes}}</p>
-					{{/if}}
-					{{#if video}}
-						<div class="video-{{id}}">
-							<br>
-							<h4>Video</h4>
-							<div class="youtubewrapper">
-								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=0&amp;autohide=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
-							</div>
-							{{#if video.yt_user_link}}
-								<p>
-									<a href="//www.youtube.com/{{video.yt_user_link}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
-										Video by {{video.yt_user_display}}
-									</a>
-								</p>
-							{{/if}}
-						</div>
-					{{/if}}
-					{{#if images}}
-						<br>
-				 		<h4>Images</h4>
-					{{/if}}
-					{{#each images}}
-						<div class="image-{{id}}">
-						 	<span>{{headline}}</span>
-						 	<img src="{{url}}" class="image-{{id}}">
-						</div>
-						<br>
-				 	{{/each}}
-					{{#if wiki_link}}
-						<hr>
-						<a target="_blank" href="{{wiki_link}}">See photo of {{title}} in Browser</a>
-					{{/if}}
+		  <div class="scrollable">
+			<span class="header">
+			  <h3>{{title}}</h3>
+			</span>
+			<div id="info-body">
+			  {{#if notes}}
+				<br>
+				<p class="notes">{{notes}}</p>
+			  {{/if}}
+			  {{#if video}}
+				<div class="video-{{id}}">
+				  <br>
+				  <h4>Video</h4>
+				  <div class="youtubewrapper">
+					<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=0&amp;autohide=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  {{#if video.yt_user_link}}
+					<p>
+					  <a href="//www.youtube.com/{{video.yt_user_link}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
+						Video by {{video.yt_user_display}}
+					  </a>
+					</p>
+				  {{/if}}
 				</div>
+			  {{/if}}
+			  {{#if images}}
+				<br>
+				<h4>Images</h4>
+			  {{/if}}
+			  {{#each images}}
+				<div class="image-{{id}}">
+				  <span>{{headline}}</span>
+				  <img src="{{url}}" class="image-{{id}}" onclick="showImagePreview('{{url}}')">
+				</div>
+				<br>
+			  {{/each}}
+			  {{#if wiki_link}}
+				<hr>
+				<a target="_blank" href="{{wiki_link}}">See photo of {{title}} in Browser</a>
+			  {{/if}}
 			</div>
+		  </div>
 		</div>
-	</script>
-
+	  </script>
+	  
+	  <script>
+		function showImagePreview(imageUrl) {
+		  var imageWindow = window.open(imageUrl, '_blank');
+		  imageWindow.focus();
+		}
+	  </script>
+	  
 	<script type="x/template" id="categoriesTemplate">
 		{{#each categories}}
 			<section class="type">

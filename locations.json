@@ -1463,10 +1463,9 @@
     },
 
 	{
-		"type": "Rapre",
+		"type": "Rapire",
 		"title": "Vagos",
 		"notes": "The Eastside Vagos (ESV) also known as the Vagos, is a Mexican street gang currently led by el Jefe, Arush Patel 'Speedy' Santana. They operate out of the Barrio, based in the Jamestown area. They are said to be the largest Hispanic street gang in Los Santos. The gang's main business revolves around pushing guns, drugs and various other legal and criminal activities.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Vagos",
 		"order": 0,
 		"strokecolor": "FFFF00",
 		"fillcolor": "FFFF00",
@@ -1518,12 +1517,11 @@
 			{"lat": -78.049, "lng": -12.925},
 			{"lat": -76.609, "lng": -12.925}
 		],
-		"video": {
-			"yt_id": "M6R1aWQXFao",
-			"yt_user_display": "MaximusBlack",
-			"yt_user_link": "user/maximusblack"
-		
-		}
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1163232377573740664/image.png?ex=653ed392&is=652c5e92&hm=d1850f91819e10fe260fe1aff277cea013e30b512abe4f66a30b48acacd753e9&"
+			}
+		]
 
 	}
 ]

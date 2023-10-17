@@ -691,4 +691,16 @@ var customMapType = new google.maps.ImageMapType({
 	alt: 'Atlas',
 	noWrap: true,  // Set to true to prevent map wrapping
   });
+
+  // Add an event listener for location markers (you may have your own way to do this)
+locationMarker.addEventListener('click', function () {
+	var imagePreview = document.getElementById('image-preview');
+	var previewImage = document.getElementById('preview-image');
   
+	// Set the image URL for the preview
+	var imageUrl = 'URL_OF_YOUR_IMAGE_FOR_SELECTED_LOCATION';
+	previewImage.src = imageUrl;
+  
+	// Display the image preview
+	imagePreview.style.display = 'block';
+  });
