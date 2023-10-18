@@ -949,7 +949,6 @@
 	{
         "type": "Homeless",
         "title": "Hangar Rapire",
-        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -985,7 +984,7 @@
         ],
 		"images": [
 			{
-			  "url": ""
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164196585660481627/image.png?ex=6542558f&is=652fe08f&hm=7a4c6e7b1e6d2026c6b2ee5b6d6fcc2a4125d0213f972e6e62c3c9ce451586a6&"
 			}
 		]
     },
