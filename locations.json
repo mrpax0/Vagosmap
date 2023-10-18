@@ -924,7 +924,12 @@
 			{"lat": 75.916, "lng": -28.015},
 			{"lat": 75.835, "lng": -28.223},
 			{"lat": 75.730, "lng": -28.366}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/513058586574716938/1163562713927135263/image.png?ex=65400738&is=652d9238&hm=bc90736aa8ab72df07a49e10396db2cdb8475f6be8a34012a4556c95d3b8cfaa&"
+			}
+		]
     },
 	{
         "type": "Locatii",
