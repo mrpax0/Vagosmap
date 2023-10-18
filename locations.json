@@ -1,9 +1,8 @@
 [
 
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 29",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -17,12 +16,16 @@
 			{"lat": 69.892, "lng": 47.988},
 			{"lat": 70.080, "lng": 47.966},
 			{"lat": 70.192, "lng": 48.241}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 2",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -35,12 +38,16 @@
 			{"lat": -62.389, "lng": -22.320},
 			{"lat": -62.899, "lng": -22.726},
 			{"lat": -62.859, "lng": -23.441}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 28",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -55,13 +62,17 @@
 			{"lat": 57.597, "lng": 40.563},
 			{"lat": 58.060, "lng": 40.750},
 			{"lat": 58.326, "lng": 40.881}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 27",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -70,13 +81,17 @@
 			{"lat": 47.933, "lng": 56.519},
 			{"lat": 47.578, "lng": 56.344},
 			{"lat": 47.778, "lng": 55.410}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 30",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -93,12 +108,16 @@
 			{"lat": 78.146, "lng": -14.217},
 			{"lat": 78.139, "lng": -14.469},
 			{"lat": 78.271, "lng": -14.557}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 31",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -107,12 +126,16 @@
 			{"lat": 76.862, "lng": -17.682},
 			{"lat": 76.754, "lng": -18.209},
 			{"lat": 76.947, "lng": -19.055}		
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 32",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -123,12 +146,16 @@
 			{"lat": 75.474, "lng": -26.969},
 			{"lat": 75.479, "lng": -27.749},
 			{"lat": 75.627, "lng": -27.617}	
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 33",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -137,12 +164,16 @@
 			{"lat": 72.026, "lng": -33.966},
 			{"lat": 71.667, "lng": -34.438},
 			{"lat": 71.801, "lng": -35.570}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 34",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -157,12 +188,16 @@
 			{"lat": 62.080, "lng": -49.177},
 			{"lat": 62.560, "lng": -49.001},
 			{"lat": 62.560, "lng": -49.001}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 35",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -171,12 +206,16 @@
 			{"lat": 52.346, "lng": -77.746},
 			{"lat": 51.616, "lng": -78.383},
 			{"lat": 51.860, "lng": -79.383}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 22",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -185,12 +224,16 @@
 			{"lat": 13.571, "lng": -5.355},
 			{"lat": 12.694, "lng": -5.014},
 			{"lat": 12.319, "lng": -6.025}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 21",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -200,12 +243,16 @@
 			{"lat": 15.938, "lng": -47.126},
 			{"lat": 15.166, "lng": -46.412},
 			{"lat": 14.230, "lng": -47.544}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 23",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -221,12 +268,16 @@
 			{"lat": 11.466, "lng": 5.888},
 			{"lat": 11.918, "lng": 5.712},
 			{"lat": 12.347, "lng": 5.822}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 24",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -235,12 +286,16 @@
 			{"lat": 2.634, "lng": 31.816},
 			{"lat": -0.419, "lng": 31.904},
 			{"lat": -0.595, "lng": 28.937}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 25",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -249,12 +304,16 @@
 			{"lat": 25.457, "lng": 44.104},
 			{"lat": 23.689, "lng": 42.995},
 			{"lat": 24.541, "lng": 41.369}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 26",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -263,12 +322,16 @@
 			{"lat": 12.637, "lng": 59.590},
 			{"lat": 12.444, "lng": 58.821},
 			{"lat": 13.568, "lng": 58.458}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 9",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -277,12 +340,16 @@
 			{"lat": -51.289, "lng": -54.057},
 			{"lat": -52.516, "lng": -53.848},
 			{"lat": -52.522, "lng": -55.441}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 5",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -291,12 +358,16 @@
 			{"lat": -66.383, "lng": -60.201},
 			{"lat": -66.685, "lng": -60.849},
 			{"lat": -66.528, "lng": -61.366}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 37",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -306,12 +377,16 @@
 			{"lat": -19.078, "lng": -93.388},
 			{"lat": -19.337, "lng": -93.564},
 			{"lat": -19.098, "lng": -93.926}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 36",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -321,12 +396,16 @@
 			{"lat": -7.546, "lng": -88.835},
 			{"lat": -7.993, "lng": -88.868},
 			{"lat": -8.090, "lng": -89.384}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 38",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -337,27 +416,34 @@
 			{"lat": -25.372, "lng": -107.025},
 			{"lat": -25.005, "lng": -108.343},
 			{"lat": -24.336, "lng": -108.189}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 39",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -33.934, "lng": -108.233},
-			{"lat": -34.025, "lng": -108.167},
-			{"lat": -34.252, "lng": -107.694},
-			{"lat": -34.651, "lng": -108.244},
-			{"lat": -34.397, "lng": -108.705}
+			{"lat": -33.648, "lng": -108.386},
+			{"lat": -33.894, "lng": -108.968},
+			{"lat": -34.131, "lng": -108.804},
+			{"lat": -33.867, "lng": -108.221}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1163232377573740664/image.png?ex=653ed392&is=652c5e92&hm=d1850f91819e10fe260fe1aff277cea013e30b512abe4f66a30b48acacd753e9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 40",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -366,12 +452,16 @@
 			{"lat": -38.935, "lng": -104.626},
 			{"lat": -38.995, "lng": -105.351},
 			{"lat": -38.498, "lng": -105.538}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 41",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -380,12 +470,16 @@
 			{"lat": -48.702, "lng": -104.561},
 			{"lat": -49.042, "lng": -105.692},
 			{"lat": -48.615, "lng": -105.868}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 8",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -393,12 +487,16 @@
 			{"lat": -55.705, "lng": -55.788},
 			{"lat": -54.880, "lng": -56.974},
 			{"lat": -54.454, "lng": -55.645}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 7",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -407,12 +505,16 @@
 			{"lat": -58.940, "lng": -68.240},
 			{"lat": -59.385, "lng": -68.932},
 			{"lat": -58.912, "lng": -70.031}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 6",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -421,12 +523,16 @@
 			{"lat": -61.100, "lng": -63.833},
 			{"lat": -61.584, "lng": -62.504},
 			{"lat": -61.746, "lng": -62.965}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 42",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -435,12 +541,16 @@
 			{"lat": -51.167, "lng": -101.751},
 			{"lat": -51.674, "lng": -102.168},
 			{"lat": -51.243, "lng": -102.992}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 10",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -455,12 +565,16 @@
 			{"lat": -48.026, "lng": -48.167},
 			{"lat": -48.516, "lng": -50.660},
 			{"lat": -48.850, "lng": -53.473}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 11",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -471,12 +585,16 @@
 		{"lat": -51.011, "lng": -41.821},
 		{"lat": -50.097, "lng": -41.426},
 		{"lat": -49.330, "lng": -41.590}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 1",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -485,12 +603,16 @@
 			{"lat": -65.107, "lng": -36.674},
 			{"lat": -64.875, "lng": -36.674},
 			{"lat": -64.884, "lng": -37.828}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-		"type": "Rapire",
+		"type": "Homeless",
 		"title": "Locatie 12",
-		"notes": "TEXT",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -500,10 +622,15 @@
 			{"lat": -42.120, "lng": -48.031},
 			{"lat": -41.440, "lng": -48.240},
 			{"lat": -41.629, "lng": -50.239}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
 	},
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 20",
         "order": 0,
         "strokecolor": "FF0000",
@@ -523,9 +650,8 @@
 
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 19",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -538,12 +664,16 @@
 		{"lat": -40.759, "lng": -70.936},
 		{"lat": -41.594, "lng": -71.376},
 		{"lat": -42.825, "lng": -71.758}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 13",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -557,12 +687,16 @@
 			{"lat": -44.805, "lng": -19.216},
 			{"lat": -44.367, "lng": -19.040},
 			{"lat": -44.210, "lng": -18.490}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
 		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 18",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -575,12 +709,16 @@
 		{"lat": -46.888, "lng": -67.879},
 		{"lat": -46.775, "lng": -67.824},
 		{"lat": -46.820, "lng": -68.571}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 4",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -589,12 +727,16 @@
 			{"lat": -64.967, "lng": -49.093},
 			{"lat": -65.106, "lng": -48.808},
 			{"lat": -65.322, "lng": -49.610}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 14",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -606,12 +748,16 @@
 		{"lat": -54.813, "lng": -7.253},
 		{"lat": -54.819, "lng": -6.506},
 		{"lat": -54.527, "lng": -6.110}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 15",
-		"notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -621,12 +767,16 @@
 		{"lat": -57.890, "lng": -1.269},
 		{"lat": -58.204, "lng": -1.895}
 
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 3",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -641,12 +791,16 @@
 			{"lat": -61.827, "lng": -40.345},
 			{"lat": -61.697, "lng": -38.774}
 
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 16",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -655,12 +809,16 @@
 		{"lat": -61.633, "lng": -10.050},
 		{"lat": -61.965, "lng": -10.379},
 		{"lat": -61.810, "lng": -11.236}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Hambar",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -670,12 +828,16 @@
 			{"lat": 62.192, "lng": 40.268},
 			{"lat": 62.320, "lng": 40.433},
 			{"lat": 62.376, "lng": 40.147}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Locatie 17",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -697,13 +859,17 @@
 		{"lat": -67.344, "lng": 11.263},
 		{"lat": -67.328, "lng": 12.516},
 		{"lat": -67.319, "lng": 13.197}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164167158192943186/FOUND.png?ex=65423a27&is=652fc527&hm=2fa786752d2c7fe985b9b1fdcebf74c72f20d0f16cdde42d54420d3f3e214bc9&"
+			}
+		]
     },
 	{
-        "type": "Jafuri",
-        "title": "Banca Cazino",
-        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "type": "Economii",
+        "title": "Diamond Casino",
+        "notes": "Cazinoul se află la colțul dintre Vinewood Park Drive și Vinewood Boulevard în East Vinewood, Los Santos. Este situat pe locul originalului Cazino Vinewood (cunoscut și sub numele de Be Lucky: Los Santos). Este format din cazinou, un hotel, un garaj si o parcare.",
         "order": 0,
         "strokecolor": "059500",
         "fillcolor": "059500",
@@ -730,15 +896,18 @@
 		{"lat": -52.995, "lng": 12.302},
 		{"lat": -52.923, "lng": 12.148},
 		{"lat": -53.022, "lng": 11.961}
+		],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164173598932607076/image.png?ex=65424027&is=652fcb27&hm=8af164fdcb7ef63f5be1f2053cfd1137dcd914acdd16d388fa886b34e00a9d42&"
+			}
+		]
 
-
-        ]
     },
 	{
-        "type": "Jafuri",
+        "type": "Economii",
         "title": "Humane Labs",
-        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "notes": "Facilitatea Humane Labs and Research se află pe Chianski Passage, adânc în lanțul muntos San Chianski, comitatul Blaine. Aceștia sunt cunoscuți pentru crearea armelor biologice, iar, conform lui Steve Haines, armele au fost fabricate pentru Agenția de Afaceri Internaționale. Laboratoarele de cercetare conțin diverse încăperi de testare și facilități de stocare pentru substanțe chimice. Se pare că Humane Labs and Research folosesc maimuțe ca subiecți de testare pentru experimente.",
         "order": 0,
         "strokecolor": "059500",
         "fillcolor": "059500",
@@ -770,13 +939,17 @@
 		{"lat": 38.483, "lng": 88.961},
 		{"lat": 38.792, "lng": 87.060},
 		{"lat": 39.133, "lng": 84.599}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164188738390327407/image.png?ex=65424e40&is=652fd940&hm=cec19a7c692ef8ba4f102e7a6480dd59d31686e9f88ac5766508bb995f39c76d&"
+			}
+		]
     },
 	{
-        "type": "Rapire",
+        "type": "Homeless",
         "title": "Hangar Rapire",
         "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
         "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
@@ -809,13 +982,17 @@
 		{"lat": -81.809, "lng": -1.228},
 		{"lat": -81.809, "lng": -0.470},
 		{"lat": -81.684, "lng": -0.459}
-        ]
+        ],
+		"images": [
+			{
+			  "url": ""
+			}
+		]
     },
 	{
-        "type": "Jafuri",
+        "type": "Economii",
         "title": "Banca Pacific",
-        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "notes": "Banca de Depozit Public Pacific Standard este o bancă de depozit publică din Los Santos. Ea este situată la intersecția străzii Alta și bulevardului Vinewood în Downtown Vinewood, Los Santos, în vecinătatea celebrului Teatru Oriental. Banca are două intrări, una la intersecția bulevardului Vinewood și străzii Alta, și a doua către est, ieșind pe bulevardul Vinewood. În apropierea ambelor intrări se găsesc grupuri de bancomate utilizabile.",
         "order": 0,
         "strokecolor": "059500",
         "fillcolor": "059500",
@@ -824,13 +1001,17 @@
 		{"lat": -49.687, "lng": -7.099},
 		{"lat": -49.323, "lng": -8.604},
 		{"lat": -48.519, "lng": -8.165}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164174926618570752/image.png?ex=65424163&is=652fcc63&hm=702fba620dc562e12a457b07e614d409eed81238dd8a15ce2c17e9e9a275d605&"
+			}
+		]
     },
 	{
-        "type": "Jafuri",
+        "type": "Economii",
         "title": "Banca Paleto",
-        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "notes": "Blaine County Savings Bank, cunoscută simplu sub numele de Banca Paleto, este a doua cea mai mare bancă din Los Santos și se află în Paleto Bay.",
         "order": 0,
         "strokecolor": "059500",
         "fillcolor": "059500",
@@ -839,13 +1020,17 @@
 		{"lat": 76.990, "lng": -17.127},
 		{"lat": 76.756, "lng": -18.210},
 		{"lat": 77.093, "lng": -19.698}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164189110257336390/image.png?ex=65424e99&is=652fd999&hm=7b70491a259d61b90456e29dbc950a1b6b2fe844535e18179da89803950762a2&"
+			}
+		]
     },
 	{
-        "type": "Jafuri",
+        "type": "Economii",
         "title": "Banca Highway",
-        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "notes": "Fleeca (Banca Highway) este situată pe Great Ocean Highway (Route 1) în Banham Canyon, comitatul Los Santos. Și este una dintre cele mai puțin folosite bănci din Los Santos.",
         "order": 0,
         "strokecolor": "059500",
         "fillcolor": "059500",
@@ -854,13 +1039,17 @@
 		{"lat": -43.944, "lng": -100.369},
 		{"lat": -43.619, "lng": -100.369},
 		{"lat": -43.619, "lng": -100.985}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164188943189811321/image.png?ex=65424e71&is=652fd971&hm=680f78af3bfea518104d5f5aaf422cdb905fc0d3478df673720659008476867c&"
+			}
+		]
     },
 	{
-        "type": "Locatii",
+        "type": "Economii",
         "title": "Banca Dusty",
-        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "notes": "Fleeca (pronunțat 'FLEE-sah') este o companie bancară și de carduri de credit prezentă în întregul oraș Los Santos. 'Banca Dusty' este situată pe Route 68, Harmony, comitatul Blaine.",
         "order": 0,
         "strokecolor": "059500",
         "fillcolor": "059500",
@@ -871,13 +1060,17 @@
 		{"lat": 15.941, "lng": 19.977},
 		{"lat": 15.931, "lng": 18.692},
 		{"lat": 15.317, "lng": 18.692}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164188856468389989/image.png?ex=65424e5c&is=652fd95c&hm=1302dc5ced44219dbc6f42d87e2f7208ed4e35f19f843752fe78f1e65d905da7&"
+			}
+		]
     },
 	{
-        "type": "Jafuri",
+        "type": "Jfuri",
         "title": "Depozit",
         "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
         "order": 0,
         "strokecolor": "059500",
         "fillcolor": "059500",
@@ -886,12 +1079,16 @@
 			{"lat": -63.117, "lng": -13.303},
 			{"lat": -64.204, "lng": -14.160},
 			{"lat": -63.974, "lng": -15.566}
-        ]
+        ],
+		"images": [
+			{
+			  "url": ""
+			}
+		]
     },
 	{
         "type": "Spitale",
-        "title": "Spital M Oras",
-        "notes": "TEXT",
+        "title": "Spital Oras",
         "order": 0,
         "strokecolor": "800080",
         "fillcolor": "800080",
@@ -906,13 +1103,16 @@
 		{"lat": -60.896, "lng": 8.634},
 		{"lat": -60.949, "lng": 8.316},
 		{"lat": -60.997, "lng": 8.008}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164168611267625051/image.png?ex=65423b82&is=652fc682&hm=fbc5d64587f53d78679aa62d8b71e60d9aac5c80ee2d412a0fc550df81dfc8fc&"
+			}
+		]
     },
 	{
         "type": "Spitale",
-        "title": "Spital M Paleto",
-        "notes": "Text",
-		"wiki_link": "https://cdn.discordapp.com/attachments/513058586574716938/1163562713927135263/image.png?ex=65400738&is=652d9238&hm=bc90736aa8ab72df07a49e10396db2cdb8475f6be8a34012a4556c95d3b8cfaa&",
+        "title": "Spital Paleto",
         "order": 0,
         "strokecolor": "800080",
         "fillcolor": "800080",
@@ -933,9 +1133,7 @@
     },
 	{
         "type": "Locatii",
-        "title": "Rapire Japonezi",
-        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "title": "Japonezi",
         "order": 0,
         "strokecolor": "8c61ff",
         "fillcolor": "8c61ff",
@@ -943,12 +1141,16 @@
 		{"lat": -82.066, "lng": -6.655},
 		{"lat": -81.959, "lng": -7.456},
 		{"lat": -81.853, "lng": -6.665}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164185749462188072/image.png?ex=65424b78&is=652fd678&hm=2de760db634ab5e02a2a4f448e58741a5b08696cafd99e1b11a494d9017bdb3f&"
+			}
+		]
     },
 	{
         "type": "Locatii",
         "title": "Documente",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FFFF00",
         "fillcolor": "FFFF00",
@@ -962,13 +1164,17 @@
 		{"lat": -53.424, "lng": -58.790},
 		{"lat": -53.626, "lng": -59.306},
 		{"lat": -53.678, "lng": -59.811}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164170332786139146/image.png?ex=65423d1c&is=652fc81c&hm=751e79fbb54039c4bea6105ab3b3a561c623f7e81bebd22889e6776472077a37&"
+			}
+		]
     },
 	{
         "type": "Locatii",
         "title": "Venezuela CarWash",
         "notes": "Spalatorie Los Vagos",
-        "wiki_link": "https://cdn.discordapp.com/attachments/513058586574716938/1163535679855284234/image.png?ex=653fee0b&is=652d790b&hm=be74838d9b76b746b51c0442eb4b1bc59eb1e1c10a353178a32297ad6f4ed815&",
         "order": 0,
         "strokecolor": "FF7133",
         "fillcolor": "FF7133",
@@ -977,13 +1183,16 @@
 			{"lat": -74.127, "lng": -9.303},
 			{"lat": -73.924, "lng": -9.951},
 			{"lat": -74.133, "lng": -10.654}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/513058586574716938/1163535679855284234/image.png?ex=653fee0b&is=652d790b&hm=be74838d9b76b746b51c0442eb4b1bc59eb1e1c10a353178a32297ad6f4ed815&"
+			}
+		]
     },
 	{
         "type": "Locatii",
-        "title": "Fabricare Arme Albe",
-        "notes": "Aici poti fabrica arme albe.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "title": "Fabricare Arme",
         "order": 0,
         "strokecolor": "5533FF",
         "fillcolor": "5533FF",
@@ -993,12 +1202,16 @@
 		{"lat": -12.854, "lng": 31.516},
 		{"lat": -12.854, "lng": 28.748},
 		{"lat": -13.937, "lng": 28.760}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164171198956048494/image.png?ex=65423deb&is=652fc8eb&hm=58606885c0c9cf19bd2edfa9b3c5e2dfdba47487db3faf725ade0b72122dacf3&"
+			}
+		]
     },
 	{
         "type": "Locatii",
         "title": "Cerc Venezuela",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FF3333",
         "fillcolor": "FF3333",
@@ -1011,12 +1224,16 @@
 		{"lat": -79.875, "lng": 27.286},
 		{"lat": -79.677, "lng": 27.583},
 		{"lat": -79.641, "lng": 26.913}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164170024458662000/image.png?ex=65423cd3&is=652fc7d3&hm=2e22b566a0ff53001a790769879eba314cfb57a7d35f4ac4d22309d462a04c5d&"
+			}
+		]
     },
 	{
         "type": "Locatii",
         "title": "Parcare Venezuela",
-        "notes": "TEXT",
         "order": 0,
         "strokecolor": "FFFF00",
         "fillcolor": "FFFF00",
@@ -1031,12 +1248,17 @@
 		{"lat": -52.565, "lng": -21.650},
 		{"lat": -53.083, "lng": -21.848},
 		{"lat": -53.644, "lng": -22.004}
-        ]
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1164169161354772520/image.png?ex=65423c05&is=652fc705&hm=88e21ea8163491aa930204bb266d7d37f8fbad1fe710f930d58fadc2329c685b&"
+			}
+		]
     },
 	{
         "type": "Zone",
         "title": "Vinewood",
-        "notes": "TEXT",
+        "notes": "Vinewood este un cartier mare și prosper. Faimosul bulevard Vinewood găzduiește artiști stradali, magazine de suveniruri și grupuri de turiști. Locuitorii din Vinewood sunt foarte bogați, deci așteptați-vă să găsiți multe vehicule de lux.",
         "order": 0,
         "strokecolor": "d580ff",
         "fillcolor": "d580ff",
@@ -1160,7 +1382,7 @@
 	{
         "type": "Zone",
         "title": "Fuente",
-		"notes": "TEXT",
+		"notes": "Este situat de-a lungul Senora Road în Vinewood Hills, comitatul Los Santos, chiar la nord de Los Santos.",
         "order": 0,
         "strokecolor": "B07B7B",
         "fillcolor": "B07B7B",
@@ -1328,8 +1550,7 @@
 	{
         "type": "Zone",
         "title": "Vespucci",
-        "notes": "TEXT",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "notes": "Vespucci este o zonă mai potrivită pentru turism, stațiuni și vacanțe. Din acest motiv, multe magazine și hoteluri se găsesc în Vespucci. Cea mai faimoasă zonă este Promenada Vespucci Beach, unde turiștii care se plimbă pe plajă vin să cumpere suveniruri, biciclete și înghețată. Când oamenii obosesc să se plimbe pe malul mării, se așează pe diferitele bănci aflate de-a lungul promenadei. Vespucci poate deveni foarte aglomerată în timpul zilei, în special pe plajă.",
         "order": 0,
         "strokecolor": "4740e6",
         "fillcolor": "4740e6",
@@ -1394,8 +1615,7 @@
 	{
         "type": "Zone",
         "title": "Grove",
-        "notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
-        "wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+        "notes": "Pornind de pe Davis Avenue în nord-vest, cu ieșiri spre nord către Brouge Avenue și o stradă fără nume către nord, și terminând într-un cap de stradă în sud-est, Grove Street este ocupată de mai multe gănguri. Strada se desfășoară paralel cu o porțiune a Canalului Los Santos și este aproape de Arena Maze Bank. Zona este destul de sărăcită și înregistrează niveluri ridicate de activitate infracțională, cu elicoptere de poliție văzute adesea patrulând zona din cer.",
         "order": 0,
         "strokecolor": "d2b600",
         "fillcolor": "d2b600",
@@ -1474,7 +1694,7 @@
     },
 
 	{
-		"type": "Rapire",
+		"type": "Rapre",
 		"title": "Vagos",
 		"notes": "The Eastside Vagos (ESV) also known as the Vagos, is a Mexican street gang currently led by el Jefe, Arush Patel 'Speedy' Santana. They operate out of the Barrio, based in the Jamestown area. They are said to be the largest Hispanic street gang in Los Santos. The gang's main business revolves around pushing guns, drugs and various other legal and criminal activities.",
 		"order": 0,

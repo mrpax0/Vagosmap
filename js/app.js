@@ -114,13 +114,13 @@ $(function() {
 			enabled: true,
 		},
 		{
-			name: 'Rapire',
+			name: 'Homeless',
 			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: false,
 		},
 		{
-			name: 'Jafuri',
+			name: 'Economii',
 			icon: 'radar/radar_police_station.png',
 			type: 'General',
 			enabled: true,
