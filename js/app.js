@@ -704,3 +704,91 @@ locationMarker.addEventListener('click', function () {
 	// Display the image preview
 	imagePreview.style.display = 'block';
   });
+
+  function toggleMobileMenu() {
+    var dropdown = document.querySelector('.desktop-menu .dropdown');
+    if (dropdown.style.display === 'block') {
+        dropdown.style.display = 'none';
+    } else {
+        dropdown.style.display = 'block';
+    }
+}
+
+const express = require('express');
+const mongoose = require('mongoose');
+const session = require('express-session');
+const MongoDBStore = require('connect-mongodb-session')(session);
+const bcrypt = require('bcrypt');
+const app = express();
+const port = 3000;
+
+mongoose.connect('mongodb://localhost/auth-demo', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
+
+const store = new MongoDBStore({
+  uri: 'mongodb://localhost/auth-demo',
+  collection: 'sessions',
+});
+
+app.use(
+  session({
+    secret: 'your-secret-key',
+    resave: false,
+    saveUninitialized: false,
+    store: store,
+  })
+);
+app.use(express.urlencoded({ extended: true }));
+
+// Define a Mongoose Schema for User
+const userSchema = new mongoose.Schema({
+  username: String,
+  password: String,
+});
+
+const User = mongoose.model('User', userSchema);
+
+app.set('view engine', 'ejs');
+
+// Define routes for registration, login, and dashboard
+app.get('/', (req, res) => {
+  res.render('home');
+});
+
+app.get('/login', (req, res) => {
+  res.render('login');
+});
+
+app.get('/dashboard', (req, res) => {
+  if (!req.session.user) {
+    return res.redirect('/login');
+  }
+  res.render('dashboard');
+});
+
+app.post('/login', async (req, res) => {
+  const { username, password } = req.body;
+  const user = await User.findOne({ username });
+
+  if (!user) {
+    return res.redirect('/login');
+  }
+
+  if (await bcrypt.compare(password, user.password)) {
+    req.session.user = user;
+    res.redirect('/dashboard');
+  } else {
+    res.redirect('/login');
+  }
+});
+
+app.get('/logout', (req, res) => {
+  req.session.destroy();
+  res.redirect('/');
+});
+
+app.listen(port, () => {
+  console.log(`Server is running on http://localhost:${port}`);
+});
