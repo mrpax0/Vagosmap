@@ -1197,6 +1197,26 @@
     },
 	{
         "type": "Locatii",
+        "title": "Benzinaria lui Gustav",
+        "order": 0,
+        "strokecolor": "2AAA8A",
+        "fillcolor": "2AAA8A",
+        "latlngarray": [
+			{"lat": 32.301, "lng": 36.664},
+			{"lat": 32.078, "lng": 35.917},
+			{"lat": 31.929, "lng": 36.070},
+			{"lat": 31.593, "lng": 36.334},
+			{"lat": 31.742, "lng": 36.642},
+			{"lat": 31.854, "lng": 36.993}
+        ],
+		"images": [
+			{
+			  "url": "https://cdn.discordapp.com/attachments/524999078703005696/1165357966002761790/image.png?ex=65468f2e&is=65341a2e&hm=6429588e364c807cb2cf5c8e774030dcabf0d6d0eb9fe018574067abb6083d78&"
+			}
+		]
+    },
+	{
+        "type": "Locatii",
         "title": "Fabricare Arme",
         "order": 0,
         "strokecolor": "5533FF",
